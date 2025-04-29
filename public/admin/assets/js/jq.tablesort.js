@@ -1,12 +1,3 @@
-/*
- * jq.TableSort -- jQuery Table sorter Plug-in.
- *
- * Version 1.0.0.
- *
- * Copyright (c) 2017 Dmitry Zavodnikov.
- *
- * Licensed under the MIT License.
- */
 (function($) {
   'use strict';
   var SORT = 'sort';
